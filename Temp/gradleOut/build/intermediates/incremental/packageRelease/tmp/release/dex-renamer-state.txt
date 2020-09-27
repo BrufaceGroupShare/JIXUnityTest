@@ -1,0 +1,4 @@
+#Sun Sep 27 11:38:25 NZDT 2020
+base.0=D\:\\Unity Projects Storage\\JIXTest\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

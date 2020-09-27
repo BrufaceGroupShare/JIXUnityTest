@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:17:1-45:12
+MERGED from [:arcore_rendering_utils:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\d73c9297983cb7286be4964bef65f6a0\AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1b386033a2e29a58da553d5003acd4a2\AndroidManifest.xml:2:1-11:12
+MERGED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:2:1-19:12
+MERGED from [:unityandroidpermissions:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\c18da02b4d1947e5a114b74f52dd19f2\AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\f315dd355657664c74e46b6cc27c582a\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-99
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:100-146
+	android:versionCode
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:2:147-187
+supports-screens
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-17:17
+MERGED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:29:5-43:19
+MERGED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:29:5-43:19
+MERGED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-11:16
+	android:screenOrientation
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:10:18-58
+meta-data#unity.tango-enable
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:12:5-73
+	android:value
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:12:50-70
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:12:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-88
+	android:value
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:13:65-85
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-64
+meta-data#unity.build-id
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-101
+	android:value
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:14:46-98
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-45
+meta-data#unity.splash-mode
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-50
+uses-feature#0x00020000
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:18:3-52
+	android:glEsVersion
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:18:17-49
+uses-permission#android.permission.CAMERA
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-63
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:19:20-60
+uses-permission#android.permission.INTERNET
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-65
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-88
+	android:required
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:21:61-85
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:21:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-99
+	android:required
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:22:72-96
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-108
+	android:required
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:23:81-105
+	android:name
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-80
+uses-sdk
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_rendering_utils:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\d73c9297983cb7286be4964bef65f6a0\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\d73c9297983cb7286be4964bef65f6a0\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1b386033a2e29a58da553d5003acd4a2\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1b386033a2e29a58da553d5003acd4a2\AndroidManifest.xml:7:5-9:41
+MERGED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:7:5-44
+MERGED from [:unityandroidpermissions:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\c18da02b4d1947e5a114b74f52dd19f2\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\c18da02b4d1947e5a114b74f52dd19f2\AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\f315dd355657664c74e46b6cc27c582a\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\f315dd355657664c74e46b6cc27c582a\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity Projects Storage\JIXTest\Temp\gradleOut\src\main\AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:32:9-34:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:34:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:33:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:36:9-42:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:39:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:41:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:40:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:38:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:42:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\1a42fb7c0041d20b086ee18a788b1631\AndroidManifest.xml:37:13-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:10:9-50
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\thaik\.gradle\caches\transforms-2\files-2.1\2b445c4292dde0c3d7d2e64965dfba0d\AndroidManifest.xml:15:13-46
