@@ -1,5 +1,7 @@
 # JIXUnityTest
  
+The APK file is: JIXTest.apk
+
 The project uses Unity 2018.4.22f1, and Google ARCore SDK 1.19.0
 
 The Player settings include custom Gradle template and disabled Auto Graphic API feature.
